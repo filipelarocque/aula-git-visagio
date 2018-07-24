@@ -1,3 +1,3 @@
 Praticando git
 
-Seu texto tá horrível cara kkk
+Seu texto tá horrível cara kkkkk
