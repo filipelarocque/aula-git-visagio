@@ -1,0 +1,3 @@
+[submodule "aula_git_univisagio"]
+	path = aula_git_univisagio
+	url = git@github.com:marcello-telles/aula_git_univisagio.git
